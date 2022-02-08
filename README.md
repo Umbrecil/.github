@@ -1,2 +1,2 @@
-<img src="https://oseaan.vercel.app/assets/favicon.svg" alt="" width="12px"/> Oseaan Github Config\
-This repository contains the configuration for Oseaan's Github profile.
+<img src="https://umbrecil.vercel.app/assets/icon.svg" alt="" width="12px"/> Umbrecil Github Config\
+This repository contains the configuration for Umbrecil's Github profile.
