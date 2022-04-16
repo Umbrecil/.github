@@ -2,4 +2,4 @@
 This organization is used to publish both private and public Github repositories for internal and external use.
 
 While your here, check our [our website](https://umbrecil.vercel.app).\
-Also check out our [Twitter](https://twitter.com/umbrecil), and join our [Discord](https://discord.gg/Ex8hTSaxnm)!
+Also check out our [Twitter](https://twitter.com/umbrecil), and join our [Discord](https://discord.gg/ASEe2HCvJP)!
